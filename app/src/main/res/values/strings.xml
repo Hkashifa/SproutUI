@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SproutUI</string>
+    <string name="desc">This is a data collection application. We will take information from the user through a standard
+        questionnaire and user app usage, screen time etc. Later such data from multiple users will be stored in the database,
+        which can be published in the CSV form. The dataset will then be used in machine learning model to train the model
+        Depression Detection.</string>
+</resources>
